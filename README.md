@@ -1,6 +1,7 @@
 # XexusCode Homebrew tap
 
 ```sh
+brew trust --cask xexuscode/tap/claudelanes   # Homebrew 7+ asks you to trust third-party casks once
 brew install --cask xexuscode/tap/claudelanes
 ```
 

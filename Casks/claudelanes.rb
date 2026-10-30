@@ -7,7 +7,7 @@ cask "claudelanes" do
   desc "Run several Claude desktop accounts side by side (unofficial)"
   homepage "https://github.com/XexusCode/claudelanes"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ClaudeLanes.app"
 
